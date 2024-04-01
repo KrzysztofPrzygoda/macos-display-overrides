@@ -52,3 +52,4 @@ ioreg -lw0 | grep "IODisplayEDID" \
 - [avibrazil/RDM](https://github.com/avibrazil/RDM) - Easily set Mac Retina display to higher unsupported resolutions
 - [usr-sse2/RDM](https://github.com/usr-sse2/RDM) - Fork, supports editing, icons, etc.
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
+- [Recrate Ovverides with Ruby](https://gist.github.com/ejdyksen/8302862)
