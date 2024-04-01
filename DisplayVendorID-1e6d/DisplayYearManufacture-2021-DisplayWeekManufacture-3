@@ -5,15 +5,8 @@
 	<key>DisplayProductID</key>
 	<integer>23482</integer>
 	<key>DisplayProductName</key>
-	<string>SwitchResX4 - Bottom</string>
+	<string>Bottom</string>
 	<key>DisplayVendorID</key>
 	<integer>7789</integer>
-	<key>SwitchResX backuped settings</key>
-	<dict>
-		<key>DisplayProductID</key>
-		<integer>23482</integer>
-		<key>DisplayVendorID</key>
-		<integer>7789</integer>
-	</dict>
 </dict>
 </plist>
