@@ -44,6 +44,14 @@ ioreg -lw0 | grep "IODisplayEDID" \
     done
 ```
 
+## Other info
+
+```bash
+$ /usr/sbin/system_profiler SPDisplaysDataType
+$ ioreg -lw0 | grep "DisplayAttributes"
+# Get displays information.
+```
+
 ## Resources
 
 - [Adding/Using HiDPI custom resolutions - tonymacx86.com](https://www.tonymacx86.com/threads/adding-using-hidpi-custom-resolutions.133254/)
@@ -53,3 +61,5 @@ ioreg -lw0 | grep "IODisplayEDID" \
 - [usr-sse2/RDM](https://github.com/usr-sse2/RDM) - Fork, supports editing, icons, etc.
 - [xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)
 - [Recrate Ovverides with Ruby](https://gist.github.com/ejdyksen/8302862)
+- [External Monitor Color Space](https://spin.atomicobject.com/external-monitor-color-space-part-2-big-sur/)
+- [Forcing RGB mode](https://embdev.net/topic/284710)
